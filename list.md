@@ -1,7 +1,7 @@
 # to-do
 
-[ ] mirrors site
+- [ ] mirrors site
 
-[ ] BBS
+- [ ] BBS
 
-[ ] logo
+- [ ] logo
