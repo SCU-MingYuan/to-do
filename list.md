@@ -1,7 +1,15 @@
 # to-do
 
-- [ ] mirrors site
+- [x] mirrors site 前端
 
 - [ ] BBS
 
-- [ ] logo
+- [x] logo
+
+- [ ] mirrors site 后端
+
+- [ ] 二级域名
+
+- [ ] 静态ip
+
+- [ ] 主机托管
