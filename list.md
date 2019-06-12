@@ -16,8 +16,10 @@
 
 - [ ] 主机托管
 
-- [ ] 镜像同步日志管理脚本
+- [x] 镜像同步日志管理脚本
 
-- [ ] 镜像大小更新脚本
+- [x] 镜像大小更新脚本
 
-- [ ] 服务器状态图表 【Telegraf+InfluxDB+Grafana】
+- [x] 服务器状态图表 【Telegraf+InfluxDB+Grafana】
+
+- [ ] 组建社团
